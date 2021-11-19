@@ -2,21 +2,21 @@
     "employees": [
       {
         "id": 1,
-        "name": "Sanket",
+        "name": "Mohin",
         "salary": "10000"
       },
       {
         "id": 2,
-        "name": "Aniket",
+        "name": "Jakir",
         "salary": "8000"
       },
       {
         "id": 3,
-        "name": "Vaibhav",
+        "name": "Prashant",
         "salary": "10000"
       },
       {
-        "name": "James",
+        "name": "Rushikesh",
         "salary": "5000",
         "id": 4
       }
